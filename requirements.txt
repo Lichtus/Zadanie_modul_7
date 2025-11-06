@@ -1,5 +1,5 @@
 streamlit
-pycaret
 pandas
-numpy
-scikit-learn
+pycaret==3.3.2
+plotly
+openpyxl
